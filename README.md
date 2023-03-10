@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">Natural Language Processing</h3>
+  <h1 align="center">Natural Language Processing</h1>
 
   <p align="center">
     Proposed solution for the exercises of the Natural Language Processing course @ FEUP 
