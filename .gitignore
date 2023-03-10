@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+05-word-embeddings/pt_wv
+05-word-embeddings/pt_wv.vectors.npy
+05-word-embeddings/reviews_data.txt.gz
+05-word-embeddings/reviews_model
+05-word-embeddings/reviews_model.syn1neg.npy
+05-word-embeddings/reviews_model.wv.vectors.npy
+05-word-embeddings/reviews_model.zip
+05-word-embeddings/reviews_wv
+05-word-embeddings/reviews_wv.vectors.npy
+05-word-embeddings/reviews_wv.zip
+05-word-embeddings/skip_s100.txt
+05-word-embeddings/skip_s100.zip
