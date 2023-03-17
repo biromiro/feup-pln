@@ -13,4 +13,8 @@
 
 Uses bigger files such as [reviews_data.txt.gz](https://moodle.up.pt/mod/resource/view.php?id=147207), [reviews_model.zip](https://moodle.up.pt/mod/resource/view.php?id=147210) and [reviews_wv.zip](https://moodle.up.pt/mod/resource/view.php?id=147211), which are made available in the curricular unit's page. It also uses [skip_s100.txt](http://143.107.183.175:22980/download.php?file=embeddings/word2vec/skip_s100.zip), which is made available in the [*Repositório de Word Embeddings do NILC*](http://nilc.icmc.usp.br/embeddings)'s webpage.
 
+**06-sequence-labeling**
+
+The [sklearn crf_suite](https://sklearn-crfsuite.readthedocs.io/en/latest/) module has compatibility problems - and open issues - with Python >=3.10. As such, some of the outputs in the classification notebook are either not what was to be expected or errors.
+
 
